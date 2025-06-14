@@ -10,6 +10,7 @@ public class PaymentSystemApplication {
 		SpringApplication.run(PaymentSystemApplication.class, args);
 
 		System.out.println("Starting Payment System Application...Now");
+		System.out.println("Starting Payment System Application...Now");
 	}
 
 }
